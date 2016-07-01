@@ -1,0 +1,25 @@
+{
+  "name": "spike-layout-loader",
+  "version": "0.0.1",
+  "description": "Wraps markdown files in a jade layout.",
+  "dependencies": {
+    "spike-util": "0.2.x",
+    "webpack": "1.x"
+  },
+  "devDependencies": {
+    "spike-core": "^0.8.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "keywords": [
+    "spikeplugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedHatter/spike-layout-loader.git"
+  },
+  "main": "lib",
+  "author": "Timothy Johnson",
+  "license": "GPL-3.0"
+}
